@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://wvvva.github.io/sitemap.xml
+Sitemap: https://wvvva.github.io/wvvva-web/sitemap.xml
